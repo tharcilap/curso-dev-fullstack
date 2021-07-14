@@ -1,0 +1,13 @@
+body {
+ background-image: url(background.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+    border: 5px solid pink;
+
+}

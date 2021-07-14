@@ -1,0 +1,9 @@
+body {
+    background: #dfdfdf;
+}
+p {
+    color: rgb(34, 34, 34);
+}
+.foto-principal {
+    border: 5px groove black;
+}
